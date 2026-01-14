@@ -1,6 +1,6 @@
 # Month-End Tax Closing & Reporting Tracker (Excel + SAP)
 
-A lightweight, GitHub-friendly demo project that tracks month-end tasks and uses a SAP invoice export tab to keep reporting inputs complete and timely.
+A lightweight, demo project that tracks month-end tasks and uses a SAP invoice export tab to keep reporting inputs complete and timely.
 
 ## Files
 - `Month_End_Tax_Closing_Reporting_Tracker.xlsx`

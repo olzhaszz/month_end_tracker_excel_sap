@@ -10,7 +10,7 @@ A lightweight, GitHub-friendly demo project that tracks month-end tasks and uses
   - **Config**: baseline vs current open items/follow-ups (for reduction KPIs)
   - **Instructions**: usage steps
 
-## Example outcomes (sample data inside)
+## Example outcomes (sample data)
 - On-time completion: ~**89%**
 - Close-period open items reduction vs baseline: ~**23%**
 - Follow-up/rework reduction vs baseline: ~**19%**

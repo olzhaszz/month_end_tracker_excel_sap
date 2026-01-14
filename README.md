@@ -15,4 +15,3 @@ A lightweight, GitHub-friendly demo project that tracks month-end tasks and uses
 - Close-period open items reduction vs baseline: ~**23%**
 - Follow-up/rework reduction vs baseline: ~**19%**
 
-> Portfolio artifact: no live SAP connection required. Replace the sample export with a real SAP report when available.
